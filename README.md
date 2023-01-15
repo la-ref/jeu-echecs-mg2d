@@ -43,10 +43,10 @@ VS code : https://code.visualstudio.com
 
 Il suffit de cliquer sur les pièces pour obtenir les coups possible d'une pièce, ensuite de cliquer un placement possible pour placer la pièce.
 
-<img src="./img/2.JPG">
+<img src="./images/2.JPG">
 
 ### Autres Screenshots de l'interface 📸
 
-<img src="./img/1.JPG">
+<img src="./images/1.JPG">
 
-<img src="./img/3.JPG">
+<img src="./images/3.JPG">
